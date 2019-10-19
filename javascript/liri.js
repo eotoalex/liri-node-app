@@ -7,20 +7,22 @@ var spotify = new Spotify({
     id:"4f223dd648564d609a7c63ac1937d2e4",
     secret:"3e2874ddeeb14c208c9042df22de349a"
 })
-
-spotify.search({type:"track", query:"I want it that way"},function(err,data){
-if (err){
-    console.log("Error occurred" + err)
-}
-console.log(data);
-});
-
 var userBand = "";
 var inquirer = require("inquirer")
 var filteredSearch = process.argv.splice(3).join("+");
 var searchCriteria = process.argv[2];
 
 
+
+// This is where the spotify api is accessed.
+function spotifyAPI(){
+spotify.search({type:"track", query:"I want it that way"},function(err,data){
+if (err){
+    console.log("Error occurred" + err)
+}
+console.log(data);
+});
+}
 
 // if (searchCriteria === "movie-this"){
 //     movieSearch (filteredSearch)
