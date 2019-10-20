@@ -1,8 +1,2 @@
-
-testNote
-testNote1
-testNote1
-testNote1
-testNote1
-testNote1
-testNote1
+Command Log,
+/usr/local/bin/node,/Users/HasBeenWriter/Desktop/Repos/liri-node-app/javascript/liri.js,movie-this
