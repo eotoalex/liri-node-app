@@ -4,9 +4,9 @@ require("dotenv").config();
 var keys = require("./keys.js");
 var axios = require("axios");
 var fs = require("fs");
+var bandsintown = require('bandsintown')("codingbootcamp");
 var moment = require("moment");
 var timeStamp = moment().format('MMMM Do YYYY, h:mm:ss a');
-// require("openurl").open("http://" + spotifyURL)
 var Spotify = require("node-spotify-api");
 var spotify = new Spotify(keys.spotify)
 var userBand = "";
@@ -27,23 +27,26 @@ var allNodeArgs = process.argv;
 // })
 
 
-if (searchCriteria === "movie-this"){
-    movieSearch (filteredSearch)
-}
-else if (searchCriteria === "spotify-this-song"){
+// if (searchCriteria === "movie-this"){
+//     movieSearch (filteredSearch)
+// }
+// else if (searchCriteria === "spotify-this-song"){
 
-    spotifyThatSong(filteredSearch)
-}
-else if (searchCriteria === "do-what-it-says"){
-    var index = 0;
-    readFileByIndex(index);
-}
+//     spotifyThatSong(filteredSearch)
+// }
+// else if (searchCriteria === "do-what-it-says"){
+//     var index = 0;
+//     readFileByIndex(index);
+// }
+// else if (searchCriteria === "concert-this"){
+//     console.log("ha ha ha ")
+// }
    
 
 
 
 
-
+concertThis();
 
 
 
@@ -113,7 +116,7 @@ function movieSearch (movieTitle){
     
     });
 }
-    }
+    };
 
     // This is function opens a link to a backstreet boys song after the user inputs "do-what-it-says".
     function spotifyAPI(songName){
@@ -129,7 +132,8 @@ function movieSearch (movieTitle){
                 });
             
                 
-    }
+    };
+
         // This function accesses the spotify api to output artist,song,album information, as well as a link to the song and a time stamp.
         function spotifyThatSong(songName){
             if (songName){
@@ -155,8 +159,9 @@ function movieSearch (movieTitle){
                 
                     
                 
-        }
+        };
 
+            // This function accesses the bandintown API to output name of venue, venue location,and the date of the event.
             function readFileByIndex(i) {
                     fs.readFile("random.txt", "utf8", function (err, data){
                         if(err){
@@ -167,7 +172,20 @@ function movieSearch (movieTitle){
                         
                         spotifyAPI(data)
                     })
-            }
+            };
+
+                function concertThis(){
+                    
+ 
+                        bandsintown
+                        .getArtistEventList('Skrillex')
+                        .then(function(events) {
+                            console.log(events)
+                        });
+                };
+
+
+
 
 
                 function inquirePrompt (){
