@@ -1,5 +1,5 @@
 # liri-node-app
->This the __Liri-node-app__. It is a Language Interpretation and Recognition Interface that works off of the command line. 
+>This is the __Liri-node-app__. It is a Language Interpretation and Recognition Interface that works off of the command line. 
 
 >Liri will allow users working on the command line to access data on movies, music and upcoming concerts without having to leave the command line. Essentially, the Liri-node-app is a one stop shop for information on movies, music and concerts from the comfort of your command line.
 ---
@@ -10,9 +10,17 @@ MomentJS is used to log the time of user searches as well as converting time tha
 ---
 ## How does the Liri-node-app work?
 
-"node _file-name_ __movie-this__ _the-song-you-want-to-search_", will output movie information for the respective movie typed,
-"node _file-name_ __concert-this__ _the-artist-you-want-to-search_", will output concert information for the respective artist typed,
-"node _file-name_ __spotify-this-song__ _the-song-you-want-to-search_ , will output song information for the respective song typed.
+>User input, in the terminal, will be within the quotes.
+>Words in italics refer to the file you are currently using and, the other, the search you choose to initiate.
+>The words in bold are the key words which will initiate the search for a given category. For example, movie-this will search movies, concert-this will search concert events and spotify-this-song will search music info.
+
+*"node _file-name_ __movie-this__ _the-song-you-want-to-search_", will output movie information for the respective movie typed,
+
+*"node _file-name_ __concert-this__ _the-artist-you-want-to-search_", will output concert information for the respective artist typed,
+
+*"node _file-name_ __spotify-this-song__ _the-song-you-want-to-search_ , will output song information for the respective song typed.
+
+*"node _file-name_ __do-what-it-says__ ~~_the-song-you-want-to-search_~~ , will open a new window in the browser, access the the song I want it that way by the Backstreet Boys.
 ___ 
 
 ## Include screenshots, gifs or videos of the app functioning
