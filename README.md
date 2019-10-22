@@ -1,10 +1,10 @@
 # liri-node-app
->This is the __Liri-node-app__. It is a Language Interpretation and Recognition Interface that works off of the command line. 
-Liri will allow users working on the command line to access data on movies, music and upcoming concerts without having to leave the command line. Essentially, the Liri-node-app is a one stop shop for information on movies, music and concerts from the comfort of your command line.
+>This is the __Liri-node-app__. It is a Language Interpretation and Recognition Interface application that works off of the command line. 
+Liri will allow users to access data on movies, music and upcoming concerts. Essentially, the Liri-node-app is a one stop shop for quick entertainment information from the comfort of your command line.
 ---
 ## How is the app organized?
 
-The app is organized with variables that require the modules necessary to gain access to the API used __(BandInTown, Spotify API, OMDB)__, as well as variables that filter the node arguments to be put into the API to get the appropriate responses from the API's. Each call to the API's are wrapped in functions that can be invoked after the user inputs the respective statments that correspond to the 3rd argument of the command line __(concert-this, spotify-this-song, movie-this)__ followed by the search terms they are looking for. Axios is used to access the BandsInTown API and OMDB API, while
+The app is organized with variables that require the modules necessary to gain access to the API used __(BandInTown, Spotify API, OMDB)__, as well as variables that filter node arguments to be put into the API to get the appropriate responses. Each call to the API's are wrapped in functions that can be invoked after the user inputs the respective statments that correspond to the 3rd argument of the command line __(concert-this, spotify-this-song, movie-this)__ followed by the search terms they are looking for. Axios is used to access the BandsInTown API and OMDB API, while
 MomentJS is used to log the time of user searches as well as converting time that might not be recognizable to the user, into more readable time in the outputs to both the terminal and the log.txt file which saves user output data.
 ---
 ## How does the Liri-node-app work?
