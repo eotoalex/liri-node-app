@@ -9,9 +9,9 @@ MomentJS is used to log the time of user searches as well as converting time tha
 ---
 ## How does the Liri-node-app work?
 
->*User input, in the terminal, will be within the quotes.
->*Words in italics refer to the file you are currently using and, the other, the search you choose to initiate.
->*The words in bold are the key words which will initiate the search for a given category. For example, movie-this will search movies, concert-this will search concert events and spotify-this-song will search music info.
+>User input, in the terminal, will be within the quotes.
+>Words in italics refer to the file you are currently using and, the other, the search you choose to initiate.
+>The words in bold are the key words which will initiate the search for a given category. For example, movie-this will search movies, concert-this will search concert events and spotify-this-song will search music info.
 
 *"node  _file-name_  __movie-this__  _the-movie-you-want-to-search_", will output movie information for the respective movie typed,
 
@@ -22,7 +22,9 @@ MomentJS is used to log the time of user searches as well as converting time tha
 *"node  _file-name_  __do-what-it-says__  ~~_the-song-you-want-to-search_~~ , will open a new window in the browser, access the the song I want it that way by the Backstreet Boys.
 ___ 
 
-## Include screenshots, gifs or videos of the app functioning
+## If you still need help using the app;
+
+[Demo Video](https://youtu.be/Tdmc4VwTPE0)
 
 ___
 ## Link to the deployed version of Liri on GitHub:

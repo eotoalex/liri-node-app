@@ -158,11 +158,12 @@ fs.appendFile("log.txt", "\n" + data, function(err){
 
                         
                         // console.log(test);
-                        console.log("Logged search: " + timeStamp);
+                        
                         console.log("Artist: "+ artist);
                         console.log("Song: "+ song);
                         console.log("Link to song: "+ spotifyURL);
                         console.log("Album: "+ album);
+                        console.log("Logged search: " + timeStamp);
                     })
                     .catch(function onError(error) {   
                             

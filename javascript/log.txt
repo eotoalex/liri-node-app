@@ -64,3 +64,443 @@ Command Log,
 ,Artist: Ricky Martin,Song: Livin' la Vida Loca,Album: Ricky Martin,URL: https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj,Logged search: October 21st 2019, 8:30:19 pm,
 
 ,Title: Mr. Nobody,Release date: 26 Sep 2013,Rotten Tomatoes rating: "67%",Producer: Magnolia Pictures,Language: English, Mohawk,Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.,Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham,Logged search: October 21st 2019, 8:32:04 pm
+
+,Title: The Matrix Reloaded,Release date: 15 May 2003,Rotten Tomatoes rating: "73%",Producer: Warner Bros. Pictures,Language: English, French,Plot: Following the events of The Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.,Cast: Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu,Logged search: October 22nd 2019, 6:17:11 pm
+
+,Artist: J2,Song: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday],Album: The Iconic Series, Vol. 5,URL: https://open.spotify.com/album/6tP8WV5HuawADMdqe1K3P8,Logged search: October 22nd 2019, 6:17:50 pm,
+
+,Artist/Band: Céline Dion,Venue: KFC Yum! Center,Country: United States,Region: KY,City: Louisville,Event Dates: 2019-10-22T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: U.S. Bank Arena,Country: United States,Region: OH,City: Cincinnati,Event Dates: 2019-10-24T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Target Center,Country: United States,Region: MN,City: Minneapolis,Event Dates: 2019-11-01T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Fiserv Forum,Country: United States,Region: WI,City: Milwaukee,Event Dates: 2019-11-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Little Caesars Arena,Country: United States,Region: MI,City: Detroit,Event Dates: 2019-11-05T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-18T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-19T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-21T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-22T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: United Center,Country: United States,Region: IL,City: Chicago,Event Dates: 2019-12-01T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bankers Life Fieldhouse,Country: United States,Region: IN,City: Indianapolis,Event Dates: 2019-12-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: KeyBank Center,Country: United States,Region: NY,City: Buffalo,Event Dates: 2019-12-05T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Times Union Center,Country: United States,Region: NY,City: Albany,Event Dates: 2019-12-07T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Scotiabank Arena,Country: Canada,Region: ,City: Toronto,Event Dates: 2019-12-09T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Scotiabank Arena,Country: Canada,Region: ,City: Toronto,Event Dates: 2019-12-10T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: TD Garden,Country: United States,Region: MA,City: Boston,Event Dates: 2019-12-13T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: TD Garden,Country: United States,Region: MA,City: Boston,Event Dates: 2019-12-14T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: VyStar Veterans Memorial Arena,Country: United States,Region: FL,City: Jacksonville,Event Dates: 2020-01-08T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: State Farm Arena,Country: United States,Region: GA,City: Atlanta,Event Dates: 2020-01-11T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bridgestone Arena,Country: United States,Region: TN,City: Nashville,Event Dates: 2020-01-13T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Amalie Arena,Country: United States,Region: FL,City: Tampa,Event Dates: 2020-01-15T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: AmericanAirlines Arena,Country: United States,Region: FL,City: Miami,Event Dates: 2020-01-17T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: AmericanAirlines Arena,Country: United States,Region: FL,City: Miami,Event Dates: 2020-01-18T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Spectrum Center,Country: United States,Region: NC,City: Charlotte,Event Dates: 2020-01-21T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: AT&T Center,Country: United States,Region: TX,City: San Antonio,Event Dates: 2020-01-30T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Toyota Center,Country: United States,Region: TX,City: Houston,Event Dates: 2020-02-01T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: American Airlines Center,Country: United States,Region: TX,City: Dallas,Event Dates: 2020-02-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: BOK Center,Country: United States,Region: OK,City: Tulsa,Event Dates: 2020-02-05T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Smoothie King Center,Country: United States,Region: LA,City: New Orleans,Event Dates: 2020-02-07T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: FedExForum,Country: United States,Region: TN,City: Memphis,Event Dates: 2020-02-09T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PNC Arena,Country: United States,Region: NC,City: Raleigh,Event Dates: 2020-02-11T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2020-02-18T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2020-02-19T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Boardwalk Hall,Country: United States,Region: NJ,City: Atlantic City,Event Dates: 2020-02-22T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Royal Farms Arena (formerly Baltimore Arena),Country: United States,Region: MD,City: Baltimore,Event Dates: 2020-02-24T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Wells Fargo Center,Country: United States,Region: PA,City: Philadelphia,Event Dates: 2020-02-26T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclays Center,Country: United States,Region: NY,City: Brooklyn,Event Dates: 2020-02-28T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclays Center,Country: United States,Region: NY,City: Brooklyn,Event Dates: 2020-02-29T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Nassau Veterans Memorial Coliseum,Country: United States,Region: NY,City: Uniondale,Event Dates: 2020-03-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclays Center,Country: United States,Region: NY,City: Brooklyn,Event Dates: 2020-03-05T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Prudential Center,Country: United States,Region: NJ,City: Newark,Event Dates: 2020-03-07T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Prudential Center,Country: United States,Region: NJ,City: Newark,Event Dates: 2020-03-08T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Capital One Arena,Country: United States,Region: DC,City: Washington,Event Dates: 2020-03-11T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PPG Paints Arena,Country: United States,Region: PA,City: Pittsburgh,Event Dates: 2020-03-13T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Pepsi Center,Country: United States,Region: CO,City: Denver,Event Dates: 2020-03-24T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Vivint Smart Home Arena,Country: United States,Region: UT,City: Salt Lake City,Event Dates: 2020-03-26T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Gila River Arena,Country: United States,Region: AZ,City: Glendale,Event Dates: 2020-03-29T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Pechanga Arena San Diego,Country: United States,Region: CA,City: San Diego,Event Dates: 2020-03-31T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Staples Center,Country: United States,Region: CA,City: Los Angeles,Event Dates: 2020-04-02T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Staples Center,Country: United States,Region: CA,City: Los Angeles,Event Dates: 2020-04-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Golden 1 Center,Country: United States,Region: CA,City: Sacramento,Event Dates: 2020-04-07T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Oakland Arena,Country: United States,Region: CA,City: Oakland,Event Dates: 2020-04-09T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Chase Center,Country: United States,Region: CA,City: San Francisco,Event Dates: 2020-04-10T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Chase Center,Country: United States,Region: CA,City: San Francisco,Event Dates: 2020-04-11T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Moda Center,Country: United States,Region: OR,City: Portland,Event Dates: 2020-04-13T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Tacoma Dome,Country: United States,Region: WA,City: Tacoma,Event Dates: 2020-04-15T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Arena,Country: Canada,Region: ,City: Vancouver,Event Dates: 2020-04-17T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Arena,Country: Canada,Region: ,City: Vancouver,Event Dates: 2020-04-18T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Place,Country: Canada,Region: ,City: Edmonton,Event Dates: 2020-04-21T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Place,Country: Canada,Region: ,City: Edmonton,Event Dates: 2020-04-22T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Sasktel Centre,Country: Canada,Region: ,City: Saskatoon,Event Dates: 2020-04-25T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell MTS Place,Country: Canada,Region: ,City: Winnipeg,Event Dates: 2020-04-27T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: O2 Arena,Country: Czech Republic,Region: ,City: Prague,Event Dates: 2020-05-21T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Atlas Arena,Country: Poland,Region: ,City: Łódź,Event Dates: 2020-05-23T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Tauron Arena Krakow,Country: Poland,Region: ,City: Kraków,Event Dates: 2020-05-25T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Sportpaleis,Country: Belgium,Region: ,City: Antwerpen - Merksem,Event Dates: 2020-05-28T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Sportpaleis,Country: Belgium,Region: ,City: Antwerpen - Merksem,Event Dates: 2020-05-30T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Hallenstadion,Country: Switzerland,Region: ,City: Zürich,Event Dates: 2020-06-02T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Hallenstadion,Country: Switzerland,Region: ,City: Zürich,Event Dates: 2020-06-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: ARENA ZAGREB,Country: Croatia,Region: ,City: Zagreb,Event Dates: 2020-06-05T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Papp Laszlo Arena,Country: Hungary,Region: ,City: Budapest,Event Dates: 2020-06-07T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Ziggo Dome,Country: Netherlands,Region: ,City: Amsterdam,Event Dates: 2020-06-10T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Ziggo Dome,Country: Netherlands,Region: ,City: Amsterdam,Event Dates: 2020-06-12T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Ziggo Dome,Country: Netherlands,Region: ,City: Amsterdam,Event Dates: 2020-06-13T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Wiener Stadthalle - Halle D,Country: Austria,Region: ,City: Wien,Event Dates: 2020-06-15T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Kleine Olympiahalle München,Country: Germany,Region: ,City: München,Event Dates: 2020-06-17T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: SAP Arena,Country: Germany,Region: ,City: Mannheim,Event Dates: 2020-06-19T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Lanxess Arena,Country: Germany,Region: ,City: Köln,Event Dates: 2020-06-21T18:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclaycard Arena Hamburg,Country: Germany,Region: ,City: Hamburg,Event Dates: 2020-06-22T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-06-26T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-06-27T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-06-30T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-07-01T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-07-03T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-07-04T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Plaine De L'asse,Country: France,Region: ,City: Nyon,Event Dates: 2020-07-20T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Sprint Center,Country: United States,Region: MO,City: Kansas City,Event Dates: 2019-10-28T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Mura di Lucca - Viale Carducci,Country: Italy,Region: ,City: Lucca,Event Dates: 2020-07-25T21:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: National Stadium Bukarest,Country: Romania,Region: ,City: Bucharest,Event Dates: 2020-07-29T17:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Hartwall Arena,Country: Finland,Region: ,City: Helsinki,Event Dates: 2020-08-24T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Hartwall Arena,Country: Finland,Region: ,City: Helsinki,Event Dates: 2020-08-25T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Telenor Arena,Country: Norway,Region: ,City: Fornebu,Event Dates: 2020-08-28T18:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Telenor Arena,Country: Norway,Region: ,City: Fornebu,Event Dates: 2020-08-29T18:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Royal Arena,Country: Denmark,Region: ,City: København S,Event Dates: 2020-08-31T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Royal Arena,Country: Denmark,Region: ,City: København S,Event Dates: 2020-09-01T20:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Manchester Arena,Country: United Kingdom,Region: ,City: Manchester,Event Dates: 2020-09-04T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Manchester Arena,Country: United Kingdom,Region: ,City: Manchester,Event Dates: 2020-09-05T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Fargodome,Country: United States,Region: ND,City: Fargo,Event Dates: 2019-10-30T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Waldbühne Berlin,Country: Germany,Region: ,City: Berlin,Event Dates: 2020-07-22T19:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Enterprise Center,Country: United States,Region: MO,City: St. Louis,Event Dates: 2019-10-26T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Arena Birmingham,Country: United Kingdom,Region: ,City: Birmingham,Event Dates: 2020-09-08T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: Arena Birmingham,Country: United Kingdom,Region: ,City: Birmingham,Event Dates: 2020-09-09T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: The SSE Hydro,Country: United Kingdom,Region: ,City: Glasgow,Event Dates: 2020-09-11T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: The SSE Hydro,Country: United Kingdom,Region: ,City: Glasgow,Event Dates: 2020-09-12T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: 3Arena,Country: Ireland,Region: ,City: Dublin,Event Dates: 2020-09-14T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: 3Arena,Country: Ireland,Region: ,City: Dublin,Event Dates: 2020-09-15T18:30:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: The O2,Country: United Kingdom,Region: ,City: London,Event Dates: 2020-09-17T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Artist/Band: Céline Dion,Venue: The O2,Country: United Kingdom,Region: ,City: London,Event Dates: 2020-09-18T00:00:00,Logged search: October 22nd 2019, 6:19:23 pm,
+
+,Title: The Matrix Reloaded,Release date: 15 May 2003,Rotten Tomatoes rating: "73%",Producer: Warner Bros. Pictures,Language: English, French,Plot: Following the events of The Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.,Cast: Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu,Logged search: October 22nd 2019, 6:22:28 pm
+
+,Artist: J2,Song: Hit Me Baby One More Time (Epic Trailer Version) [feat. Blu Holliday],Album: The Iconic Series, Vol. 5,URL: https://open.spotify.com/album/6tP8WV5HuawADMdqe1K3P8,Logged search: October 22nd 2019, 6:23:02 pm,
+
+,Artist/Band: Céline Dion,Venue: KFC Yum! Center,Country: United States,Region: KY,City: Louisville,Event Dates: 2019-10-22T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: U.S. Bank Arena,Country: United States,Region: OH,City: Cincinnati,Event Dates: 2019-10-24T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Target Center,Country: United States,Region: MN,City: Minneapolis,Event Dates: 2019-11-01T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Fiserv Forum,Country: United States,Region: WI,City: Milwaukee,Event Dates: 2019-11-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Little Caesars Arena,Country: United States,Region: MI,City: Detroit,Event Dates: 2019-11-05T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-18T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-19T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-21T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2019-11-22T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: United Center,Country: United States,Region: IL,City: Chicago,Event Dates: 2019-12-01T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bankers Life Fieldhouse,Country: United States,Region: IN,City: Indianapolis,Event Dates: 2019-12-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: KeyBank Center,Country: United States,Region: NY,City: Buffalo,Event Dates: 2019-12-05T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Times Union Center,Country: United States,Region: NY,City: Albany,Event Dates: 2019-12-07T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Scotiabank Arena,Country: Canada,Region: ,City: Toronto,Event Dates: 2019-12-09T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Scotiabank Arena,Country: Canada,Region: ,City: Toronto,Event Dates: 2019-12-10T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: TD Garden,Country: United States,Region: MA,City: Boston,Event Dates: 2019-12-13T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: TD Garden,Country: United States,Region: MA,City: Boston,Event Dates: 2019-12-14T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: VyStar Veterans Memorial Arena,Country: United States,Region: FL,City: Jacksonville,Event Dates: 2020-01-08T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: State Farm Arena,Country: United States,Region: GA,City: Atlanta,Event Dates: 2020-01-11T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bridgestone Arena,Country: United States,Region: TN,City: Nashville,Event Dates: 2020-01-13T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Amalie Arena,Country: United States,Region: FL,City: Tampa,Event Dates: 2020-01-15T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Sprint Center,Country: United States,Region: MO,City: Kansas City,Event Dates: 2019-10-28T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: AmericanAirlines Arena,Country: United States,Region: FL,City: Miami,Event Dates: 2020-01-17T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Spectrum Center,Country: United States,Region: NC,City: Charlotte,Event Dates: 2020-01-21T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: AT&T Center,Country: United States,Region: TX,City: San Antonio,Event Dates: 2020-01-30T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Toyota Center,Country: United States,Region: TX,City: Houston,Event Dates: 2020-02-01T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: American Airlines Center,Country: United States,Region: TX,City: Dallas,Event Dates: 2020-02-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: BOK Center,Country: United States,Region: OK,City: Tulsa,Event Dates: 2020-02-05T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Smoothie King Center,Country: United States,Region: LA,City: New Orleans,Event Dates: 2020-02-07T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: FedExForum,Country: United States,Region: TN,City: Memphis,Event Dates: 2020-02-09T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PNC Arena,Country: United States,Region: NC,City: Raleigh,Event Dates: 2020-02-11T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2020-02-18T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell Centre,Country: Canada,Region: ,City: Montreal,Event Dates: 2020-02-19T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Boardwalk Hall,Country: United States,Region: NJ,City: Atlantic City,Event Dates: 2020-02-22T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Royal Farms Arena (formerly Baltimore Arena),Country: United States,Region: MD,City: Baltimore,Event Dates: 2020-02-24T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Wells Fargo Center,Country: United States,Region: PA,City: Philadelphia,Event Dates: 2020-02-26T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclays Center,Country: United States,Region: NY,City: Brooklyn,Event Dates: 2020-02-28T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclays Center,Country: United States,Region: NY,City: Brooklyn,Event Dates: 2020-02-29T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Nassau Veterans Memorial Coliseum,Country: United States,Region: NY,City: Uniondale,Event Dates: 2020-03-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclays Center,Country: United States,Region: NY,City: Brooklyn,Event Dates: 2020-03-05T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Prudential Center,Country: United States,Region: NJ,City: Newark,Event Dates: 2020-03-07T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Prudential Center,Country: United States,Region: NJ,City: Newark,Event Dates: 2020-03-08T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Capital One Arena,Country: United States,Region: DC,City: Washington,Event Dates: 2020-03-11T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PPG Paints Arena,Country: United States,Region: PA,City: Pittsburgh,Event Dates: 2020-03-13T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Pepsi Center,Country: United States,Region: CO,City: Denver,Event Dates: 2020-03-24T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Vivint Smart Home Arena,Country: United States,Region: UT,City: Salt Lake City,Event Dates: 2020-03-26T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Gila River Arena,Country: United States,Region: AZ,City: Glendale,Event Dates: 2020-03-29T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Pechanga Arena San Diego,Country: United States,Region: CA,City: San Diego,Event Dates: 2020-03-31T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Staples Center,Country: United States,Region: CA,City: Los Angeles,Event Dates: 2020-04-02T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Staples Center,Country: United States,Region: CA,City: Los Angeles,Event Dates: 2020-04-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Golden 1 Center,Country: United States,Region: CA,City: Sacramento,Event Dates: 2020-04-07T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Oakland Arena,Country: United States,Region: CA,City: Oakland,Event Dates: 2020-04-09T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Chase Center,Country: United States,Region: CA,City: San Francisco,Event Dates: 2020-04-10T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Chase Center,Country: United States,Region: CA,City: San Francisco,Event Dates: 2020-04-11T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Moda Center,Country: United States,Region: OR,City: Portland,Event Dates: 2020-04-13T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Tacoma Dome,Country: United States,Region: WA,City: Tacoma,Event Dates: 2020-04-15T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Arena,Country: Canada,Region: ,City: Vancouver,Event Dates: 2020-04-17T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Arena,Country: Canada,Region: ,City: Vancouver,Event Dates: 2020-04-18T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Place,Country: Canada,Region: ,City: Edmonton,Event Dates: 2020-04-21T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Rogers Place,Country: Canada,Region: ,City: Edmonton,Event Dates: 2020-04-22T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Sasktel Centre,Country: Canada,Region: ,City: Saskatoon,Event Dates: 2020-04-25T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Bell MTS Place,Country: Canada,Region: ,City: Winnipeg,Event Dates: 2020-04-27T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: O2 Arena,Country: Czech Republic,Region: ,City: Prague,Event Dates: 2020-05-21T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Atlas Arena,Country: Poland,Region: ,City: Łódź,Event Dates: 2020-05-23T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Tauron Arena Krakow,Country: Poland,Region: ,City: Kraków,Event Dates: 2020-05-25T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Sportpaleis,Country: Belgium,Region: ,City: Antwerpen - Merksem,Event Dates: 2020-05-28T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Sportpaleis,Country: Belgium,Region: ,City: Antwerpen - Merksem,Event Dates: 2020-05-30T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Hallenstadion,Country: Switzerland,Region: ,City: Zürich,Event Dates: 2020-06-02T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Hallenstadion,Country: Switzerland,Region: ,City: Zürich,Event Dates: 2020-06-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: ARENA ZAGREB,Country: Croatia,Region: ,City: Zagreb,Event Dates: 2020-06-05T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Papp Laszlo Arena,Country: Hungary,Region: ,City: Budapest,Event Dates: 2020-06-07T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Ziggo Dome,Country: Netherlands,Region: ,City: Amsterdam,Event Dates: 2020-06-10T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Ziggo Dome,Country: Netherlands,Region: ,City: Amsterdam,Event Dates: 2020-06-12T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Ziggo Dome,Country: Netherlands,Region: ,City: Amsterdam,Event Dates: 2020-06-13T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Wiener Stadthalle - Halle D,Country: Austria,Region: ,City: Wien,Event Dates: 2020-06-15T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Kleine Olympiahalle München,Country: Germany,Region: ,City: München,Event Dates: 2020-06-17T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: SAP Arena,Country: Germany,Region: ,City: Mannheim,Event Dates: 2020-06-19T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Lanxess Arena,Country: Germany,Region: ,City: Köln,Event Dates: 2020-06-21T18:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Barclaycard Arena Hamburg,Country: Germany,Region: ,City: Hamburg,Event Dates: 2020-06-22T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-06-26T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-06-27T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-06-30T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-07-01T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-07-03T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: PARIS LA DEFENSE ARENA,Country: France,Region: ,City: Nanterre,Event Dates: 2020-07-04T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Plaine De L'asse,Country: France,Region: ,City: Nyon,Event Dates: 2020-07-20T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Waldbühne Berlin,Country: Germany,Region: ,City: Berlin,Event Dates: 2020-07-22T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Mura di Lucca - Viale Carducci,Country: Italy,Region: ,City: Lucca,Event Dates: 2020-07-25T21:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: National Stadium Bukarest,Country: Romania,Region: ,City: Bucharest,Event Dates: 2020-07-29T17:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Hartwall Arena,Country: Finland,Region: ,City: Helsinki,Event Dates: 2020-08-24T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Hartwall Arena,Country: Finland,Region: ,City: Helsinki,Event Dates: 2020-08-25T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Telenor Arena,Country: Norway,Region: ,City: Fornebu,Event Dates: 2020-08-28T18:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Telenor Arena,Country: Norway,Region: ,City: Fornebu,Event Dates: 2020-08-29T18:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Royal Arena,Country: Denmark,Region: ,City: København S,Event Dates: 2020-08-31T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Royal Arena,Country: Denmark,Region: ,City: København S,Event Dates: 2020-09-01T20:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Manchester Arena,Country: United Kingdom,Region: ,City: Manchester,Event Dates: 2020-09-04T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Manchester Arena,Country: United Kingdom,Region: ,City: Manchester,Event Dates: 2020-09-05T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Arena Birmingham,Country: United Kingdom,Region: ,City: Birmingham,Event Dates: 2020-09-08T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Arena Birmingham,Country: United Kingdom,Region: ,City: Birmingham,Event Dates: 2020-09-09T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: The SSE Hydro,Country: United Kingdom,Region: ,City: Glasgow,Event Dates: 2020-09-11T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: The SSE Hydro,Country: United Kingdom,Region: ,City: Glasgow,Event Dates: 2020-09-12T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: 3Arena,Country: Ireland,Region: ,City: Dublin,Event Dates: 2020-09-14T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: 3Arena,Country: Ireland,Region: ,City: Dublin,Event Dates: 2020-09-15T18:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: The O2,Country: United Kingdom,Region: ,City: London,Event Dates: 2020-09-17T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: The O2,Country: United Kingdom,Region: ,City: London,Event Dates: 2020-09-18T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Fargodome,Country: United States,Region: ND,City: Fargo,Event Dates: 2019-10-30T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: AmericanAirlines Arena,Country: United States,Region: FL,City: Miami,Event Dates: 2020-01-18T19:30:00,Logged search: October 22nd 2019, 6:24:33 pm,
+
+,Artist/Band: Céline Dion,Venue: Enterprise Center,Country: United States,Region: MO,City: St. Louis,Event Dates: 2019-10-26T00:00:00,Logged search: October 22nd 2019, 6:24:33 pm,
