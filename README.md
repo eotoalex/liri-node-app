@@ -1,6 +1,6 @@
 # liri-node-app
->This is the __Liri-node-app__. It is a Language Interpretation and Recognition Interface application that works off of the command line. 
-Liri will allow users to access data on movies, music and upcoming concerts. Essentially, the Liri-node-app is a one stop shop for quick entertainment information from the comfort of your command line.
+>This is the __Liri-node-app__. It is a Language Interpretation and Recognition Interface CLI(Command Line Interface) for the command line. 
+Liri allows users to access data on movies, music and upcoming concerts. Essentially, the Liri-node-app is a one stop shop for quick entertainment information from the comfort of your command line.
 ---
 ## How is the app organized?
 
